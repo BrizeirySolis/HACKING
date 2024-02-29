@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "fdeb524c1ae29c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a90501e6420fa83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2523181e790304a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RETOS PICOCTF/1ER PARCIAL/PARTE 1/02 Wave A Flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ff88f4c4c4618aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5aef55944613261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6613f00c591d193e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "108e02cfa58611b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79dbf40855c3a843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "5aa1463cc7e32f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "720f9be1e60bb3a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40b750ee7b038dc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RETOS PICOCTF/1ER PARCIAL/PARTE 1/02 Wave A Flag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad2cac7a67621818",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RETOS PICOCTF/1ER PARCIAL/PARTE 1/02 Wave A Flag.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d4e97200a6564d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09ed3c95d3cac36c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RETOS PICOCTF/1ER PARCIAL/PARTE 1/02 Wave A Flag.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2523181e790304a6",
+  "lastOpenFiles": [
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1/01 Obedient Cat.md",
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1",
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1/03 Nice Netcat.md",
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1/05 Mod 26.md",
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1/04 Lets Warm Up.md",
+    "RETOS PICOCTF/Plantilla.md",
+    "RETOS PICOCTF/1ER PARCIAL/PARTE 1/02 Wave A Flag.md",
+    "RETOS BRANDIT/PLANTILLA.md",
+    "README.md",
+    "RETOS PICOCTF/1ER PARCIAL",
+    "RETOS PICOCTF",
+    "TAREAS/TAREA 3.md",
+    "NOTAS CLASE",
+    "RETOS BRANDIT/Bandit Level 0.md",
+    "RETOS BRANDIT/Bandit Level 15 → 16.md",
+    "RETOS BRANDIT/Bandit Level 14 → 15.md",
+    "TAREAS/TAREA 5.md",
+    "TAREAS/TAREA 4.md",
+    "TAREAS/TAREA 2.md",
+    "TAREAS/TAREA 1.md",
+    "TAREAS",
+    "Tareas",
+    "RETOS BRANDIT/Bandit Level 0 → 1.md",
+    "RETOS BRANDIT/Bandit Level 13 → 14.md",
+    "RETOS BRANDIT/Bandit Level 12 → 13.md",
+    "RETOS BRANDIT/Bandit Level 11 → 12.md",
+    "RETOS BRANDIT/Bandit Level 10 → 11.md",
+    "RETOS BRANDIT/Bandit Level 9 → 10.md",
+    "RETOS BRANDIT/Bandit Level 8 → 9.md",
+    "RETOS BRANDIT/Bandit Level 7 → 8.md",
+    "RETOS BRANDIT/Bandit Level 6 → 7.md",
+    "RETOS BRANDIT",
+    "RETOS BANDIT",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

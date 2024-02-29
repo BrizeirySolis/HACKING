@@ -1,0 +1,2 @@
+- Elaborar un cuestionario con al menos 15 preguntas (pregunta y respuesta) del Tema 02 . Introducción a la ciberseguridad
+- Anexarlo como archivo PDF con preguntas y respuestas, incluir portada
